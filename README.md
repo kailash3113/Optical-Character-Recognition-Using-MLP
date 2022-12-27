@@ -4,9 +4,9 @@ Here i have developed a simple multilayer percerptron model using the chcaracter
 
 The model consist of 3 layers of neural nets:
 
-# 1 input layer
-# 1 hidden layer
-# 1 output layer
+1 input layer
+1 hidden layer
+1 output layer
 
 For input layer i have used relu activation funtion
 For the hidden layer it's relu and
